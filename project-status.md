@@ -1,12 +1,12 @@
-# Metosin Open Source Project Status
+# Nubank Open Source Project Status
 
 We use following project status model to track the maintenance status and maturity of our open source projects.
 
 ## Active
 
-Active projects are actively developed by Metosin and contributors and recommended for use.
+Active projects are actively developed by Nubank, contributors and recommended for use.
 
-|                        | Metosin            | Contributors |
+|                        | Nubank             | Contributors |
 |------------------------|--------------------|--------------|
 | New features           | Actively developed | PRs welcome  |
 | Feature requests       | ✓                  | ✓            |
@@ -14,17 +14,17 @@ Active projects are actively developed by Metosin and contributors and recommend
 | Bug reports            | ✓                  | ✓            |
 | New releases           | Often              |              |
 
-Github tag: [metosin-active](https://github.com/topics/metosin-active)
+Github tag: [nubank-active](https://github.com/topics/nubank-active)
 
 ```
-[Metosin Open Source Status: Active](https://github.com/metosin/open-source/blob/main/project-status.md#active)
+[Nubank Open Source Status: Active](https://github.com/nubank/open-source/blob/main/project-status.md#active)
 ```
 
 ## Stable
 
-Stable project are maintained by Metosin and recommended for use. No major new features expected from Metosin but PRs from collaborators are welcome.
+Stable project are maintained by Nubank and recommended for use. No major new features expected from Nubank but PRs from collaborators are welcome.
 
-|                        | Metosin   | Contributors |
+|                        | Nubank   | Contributors |
 |------------------------|-----------|--------------|
 | New features           |           | PRs welcome  |
 | Feature requests       |           |              |
@@ -32,17 +32,17 @@ Stable project are maintained by Metosin and recommended for use. No major new f
 | Bug reports            | ✓         | ✓            |
 | New releases           | As needed |              |
 
-Github tag: [metosin-stable](https://github.com/topics/metosin-stable)
+Github tag: [nubank-stable](https://github.com/topics/nubank-stable)
 
 ```
-[Metosin Open Source Status: Stable](https://github.com/metosin/open-source/blob/main/project-status.md#stable)
+[Nubank Open Source Status: Stable](https://github.com/nubank/open-source/blob/main/project-status.md#stable)
 ```
 
 ## Inactive
 
 Inactive projects are OK for production use and will receive security fixes but no new developments. Not recommended for new projects.
 
-|                        | Metosin   | Contributors  |
+|                        | Nubank   | Contributors  |
 |------------------------|-----------|---------------|
 | New features           |           | Discuss first |
 | Feature requests       |           |               |
@@ -50,27 +50,27 @@ Inactive projects are OK for production use and will receive security fixes but 
 | Bug reports            | ✓         | ✓             |
 | New releases           | As needed |               |
 
-Github tag: [metosin-inactive](https://github.com/topics/metosin-inactive)
+Github tag: [nubank-inactive](https://github.com/topics/nubank-inactive)
 
 ```
-[Metosin Open Source Status: Inactive](https://github.com/metosin/open-source/blob/main/project-status.md#inactive)
+[Nubank Open Source Status: Inactive](https://github.com/nubank/open-source/blob/main/project-status.md#inactive)
 ```
 
 ## Experimental
 
-Experimental projects are not recommended for production use and Metosin doesn't provide support or maintenance. Testing and feedback are welcome.
+Experimental projects are not recommended for production use and Nubank doesn't provide support or maintenance. Testing and feedback are welcome.
 
-Github tag: [metosin-experimental](https://github.com/topics/metosin-experimental)
+Github tag: [nubank-experimental](https://github.com/topics/nubank-experimental)
 
 ```
-[Metosin Open Source Status: Experimental](https://github.com/metosin/open-source/blob/main/project-status.md#experimental)
+[Nubank Open Source Status: Experimental](https://github.com/nubank/open-source/blob/main/project-status.md#experimental)
 ```
 
 ## Deprecated
 
 Deprecated projects are not recommended for anything. If you want new features, please fork.
 
-|                        | Metosin | Contributors |
+|                        | Nubank | Contributors |
 |------------------------|---------|--------------|
 | New features           |         |              |
 | Feature requests       |         |              |
@@ -78,17 +78,17 @@ Deprecated projects are not recommended for anything. If you want new features, 
 | Bug reports            |         |              |
 | New releases           | Never   | Please fork  |
 
-Github tag: [metosin-deprecated](https://github.com/topics/metosin-deprecated)
+Github tag: [nubank-deprecated](https://github.com/topics/nubank-deprecated)
 
 ```
-[Metosin Open Source Status: Deprecated](https://github.com/metosin/open-source/blob/main/project-status.md#deprecated)
+[Nubank Open Source Status: Deprecated](https://github.com/nubank/open-source/blob/main/project-status.md#deprecated)
 ```
 
 ## Example
 
 Example repositories contain example projects and code snippets. Example projects are not actively maintained nor meant to be used as dependencies.
 
-|                        | Metosin | Contributors |
+|                        | Nubank | Contributors |
 |------------------------|---------|--------------|
 | New features           |         |              |
 | Feature requests       |         |              |
@@ -97,8 +97,8 @@ Example repositories contain example projects and code snippets. Example project
 | New releases           |         |              |
 
 
-Github tag: [metosin-example](https://github.com/topics/metosin-example)
+Github tag: [nubank-example](https://github.com/topics/nubank-example)
 
 ```
-[Metosin Open Source Status: Example](https://github.com/metosin/open-source/blob/main/project-status.md#example)
+[Nubank Open Source Status: Example](https://github.com/nubank/open-source/blob/main/project-status.md#example)
 ```
