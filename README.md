@@ -10,6 +10,8 @@ This repository documents the way we work with them.
 - [state-flow](https://github.com/nubank/state-flow): Integration testing framework using a state monad in the backend for building and composing flows
 - [morse](https://github.com/nubank/morse): A graphical, interactive tool for browsing Clojure data
 - [ordnungsamt](https://github.com/nubank/ordnungsamt): helping maintain order and consistency across code-bases
+- [mockfn](https://github.com/nubank/mockfn): A mocking library for Clojure.
+- [workspaces](https://github.com/nubank/workspaces): Live development environment for Clojurescript
 
 # [Project status model](./project-status.md)
 
